@@ -8,13 +8,13 @@ while (i < ingredients.length){
   i++;
 }
 
-console.log("second array;");
+console.log("\nsecond array;\n");
 // Write a for loop that prints out the contents of ingredients:
 for (let i = 0; i < ingredients.length; i++){
   console.log(ingredients[i]);  
 }
 
-console.log("third array;");
+console.log("\nthird array;\n");
 // Write any loop (while or for) that prints out the contents of ingredients backwards:
 
 for ( let i = ingredients.length -1; i >= 0; i--){
